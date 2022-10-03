@@ -11,7 +11,7 @@ Currículo feito para a Jornada Dev da EBAC<br>
 - HTML
 - CSS
 - Git
-- Hithub
+- Github
 
 # 💚 Contato
 
